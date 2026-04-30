@@ -1,0 +1,29 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "douban-scraper"
+version = "0.1.0"
+description = "A CLI tool for fetching data from Douban APIs"
+requires-python = ">=3.10"
+dependencies = [
+    "httpx",
+    "typer[all]",
+    "pydantic",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest",
+    "pytest-httpx",
+    "ruff",
+]
+
+[project.scripts]
+douban-scraper = "douban_scraper.cli:app"
+
+[tool.pytest.ini_options]
+markers = [
+    "integration: marks tests that hit the live Douban API (deselect with '-m \"not integration\"')",
+]

@@ -1,0 +1,445 @@
+{
+  "start": 0,
+  "count": 3,
+  "total": 551,
+  "interests": [
+    {
+      "charts": [],
+      "comment": "太直球了，太阳光了，太有强度了，太有细节了，太有体验了！呱！这就是我想要看的恋爱番呀，剧情作画配音都非常棒，基本上把学生时代自然的感情和青春最美好的方方面面展现出来了！",
+      "create_time": "2026-04-27 21:22:12",
+      "id": 4828818930,
+      "is_editable": false,
+      "is_private": false,
+      "platforms": [],
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 5,
+        "value": 5
+      },
+      "sharing_text": "我的评分：★★★★★ 太直球了，太阳光了，太有强度了，太有细节了，太有体验了！呱！这就是我想要看的恋爱番呀，剧情作画配音都非常棒，基本上把学生时代自然的感情和青春最美好的方方面面展现出来了！ https://www.douban.com/doubanapp/dispatch/movie/37134598 来自@豆瓣App",
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/37134598/interest/4828818930",
+      "status": "done",
+      "subject": {
+        "actors": [
+          {
+            "name": "铃代纱弓"
+          },
+          {
+            "name": "坂田将吾"
+          },
+          {
+            "name": "谷口梦奈"
+          },
+          {
+            "name": "平林瑚夏"
+          },
+          {
+            "name": "岩田安吉"
+          },
+          {
+            "name": "岛袋美由利"
+          },
+          {
+            "name": "加藤涉"
+          },
+          {
+            "name": "大森心"
+          },
+          {
+            "name": "楠木灯"
+          }
+        ],
+        "album_no_interact": false,
+        "article_intros": [],
+        "card_subtitle": "2026 / 日本 / 喜剧 爱情 动画 / 长友孝和 / 铃代纱弓 坂田将吾",
+        "color_scheme": {
+          "_base_color": [
+            0.5784313725490197,
+            0.2575757575757576,
+            0.25882352941176473
+          ],
+          "_avg_color": [
+            0.987179487179487,
+            0.13197969543147217,
+            0.7725490196078432
+          ],
+          "primary_color_light": "7b91a5",
+          "primary_color_dark": "5e707f",
+          "secondary_color": "f4f7f9",
+          "is_dark": true
+        },
+        "controversy_reason": "",
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926685404.webp",
+        "directors": [
+          {
+            "name": "长友孝和"
+          }
+        ],
+        "genres": [
+          "喜剧",
+          "爱情",
+          "动画"
+        ],
+        "has_linewatch": true,
+        "honor_infos": [],
+        "id": "37134598",
+        "is_released": true,
+        "is_show": false,
+        "null_rating_reason": "",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926685404.webp",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926685404.webp"
+        },
+        "pubdate": [
+          "2026-01-11(日本)"
+        ],
+        "rating": {
+          "count": 10478,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 9.1
+        },
+        "release_date": null,
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/37134598",
+        "subtype": "tv",
+        "title": "相反的你和我",
+        "type": "tv",
+        "uri": "douban://douban.com/tv/37134598",
+        "url": "https://movie.douban.com/subject/37134598/",
+        "vendor_icons": [
+          "https://img9.doubanio.com/f/frodo/88a62f5e0cf9981c910e60f4421c3e66aac2c9bc/pics/vendors/bilibili.png"
+        ],
+        "year": "2026",
+        "in_blacklist": false
+      },
+      "tags": [],
+      "vote_count": 0
+    },
+    {
+      "charts": [],
+      "comment": "感觉挺可惜的，剧本和设定挺有意思的但是压缩成这么短，显得那些有的没的对白剧情背景很累赘很影响观看体验啊。",
+      "create_time": "2026-04-26 17:15:42",
+      "id": 4827838938,
+      "is_editable": false,
+      "is_private": false,
+      "platforms": [],
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 4,
+        "value": 4
+      },
+      "sharing_text": "我的评分：★★★★ 感觉挺可惜的，剧本和设定挺有意思的但是压缩成这么短，显得那些有的没的对白剧情背景很累赘很影响观看体验啊。 https://www.douban.com/doubanapp/dispatch/movie/36464284 来自@豆瓣App",
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/36464284/interest/4827838938",
+      "status": "done",
+      "subject": {
+        "actors": [
+          {
+            "name": "花泽香菜"
+          },
+          {
+            "name": "小野友树"
+          },
+          {
+            "name": "关智一"
+          },
+          {
+            "name": "诸星堇"
+          },
+          {
+            "name": "小林优"
+          },
+          {
+            "name": "Lynn"
+          },
+          {
+            "name": "小西克幸"
+          },
+          {
+            "name": "内田真礼"
+          },
+          {
+            "name": "森久保祥太郎"
+          },
+          {
+            "name": "羽多野涉"
+          },
+          {
+            "name": "松冈祯丞"
+          },
+          {
+            "name": "堀内贤雄"
+          },
+          {
+            "name": "古贺葵"
+          },
+          {
+            "name": "橘龙丸"
+          },
+          {
+            "name": "浪川大辅"
+          },
+          {
+            "name": "榎木淳弥"
+          },
+          {
+            "name": "咲野俊介"
+          }
+        ],
+        "album_no_interact": false,
+        "article_intros": [],
+        "card_subtitle": "2024 / 日本 / 动作 动画 奇幻 / 榎户骏 坂詰嵩仁 / 花泽香菜 小野友树",
+        "color_scheme": {
+          "_base_color": [
+            0.030864197530864168,
+            0.22881355932203393,
+            0.4627450980392157
+          ],
+          "_avg_color": [
+            0.05263157894736838,
+            0.13768115942028977,
+            0.5411764705882353
+          ],
+          "primary_color_light": "a5867f",
+          "primary_color_dark": "7f6762",
+          "secondary_color": "f9f5f4",
+          "is_dark": true
+        },
+        "controversy_reason": "",
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926891106.webp",
+        "directors": [
+          {
+            "name": "榎户骏"
+          },
+          {
+            "name": "坂詰嵩仁"
+          }
+        ],
+        "genres": [
+          "动作",
+          "动画",
+          "奇幻"
+        ],
+        "has_linewatch": false,
+        "honor_infos": [],
+        "id": "36464284",
+        "is_released": true,
+        "is_show": false,
+        "null_rating_reason": "",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2926891106.webp",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2926891106.webp"
+        },
+        "pubdate": [
+          "2024-11-23(美国·第1话)"
+        ],
+        "rating": {
+          "count": 4720,
+          "max": 10,
+          "star_count": 4.5,
+          "value": 8.5
+        },
+        "release_date": null,
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/36464284",
+        "subtype": "tv",
+        "title": "命运/奇异赝品",
+        "type": "tv",
+        "uri": "douban://douban.com/tv/36464284",
+        "url": "https://movie.douban.com/subject/36464284/",
+        "vendor_icons": [],
+        "year": "2024",
+        "in_blacklist": false
+      },
+      "tags": [],
+      "vote_count": 0
+    },
+    {
+      "charts": [],
+      "comment": "食之无味，弃之…也不是很可惜。没什么值得看的内容，就这种东西这也能称之为一个剧场版吗？",
+      "create_time": "2026-04-16 21:25:09",
+      "id": 4820554391,
+      "is_editable": false,
+      "is_private": false,
+      "platforms": [],
+      "rating": {
+        "count": 1,
+        "max": 5,
+        "star_count": 3,
+        "value": 3
+      },
+      "sharing_text": "我的评分：★★★ 食之无味，弃之…也不是很可惜。没什么值得看的内容，就这种东西这也能称之为一个剧场版吗？ https://www.douban.com/doubanapp/dispatch/movie/35460695 来自@豆瓣App",
+      "sharing_url": "https://www.douban.com/doubanapp/dispatch?uri=/subject/35460695/interest/4820554391",
+      "status": "done",
+      "subject": {
+        "actors": [
+          {
+            "name": "日野聪"
+          },
+          {
+            "name": "原由实"
+          },
+          {
+            "name": "加藤将之"
+          },
+          {
+            "name": "青山吉能"
+          },
+          {
+            "name": "生天目仁美"
+          },
+          {
+            "name": "早见沙织"
+          },
+          {
+            "name": "户松遥"
+          }
+        ],
+        "album_no_interact": false,
+        "article_intros": [],
+        "card_subtitle": "2024 / 日本 / 动画 奇幻 冒险 / 伊藤尚往 / 日野聪 原由实",
+        "color_scheme": {
+          "_base_color": [
+            0.03191489361702127,
+            0.2165898617511521,
+            0.8509803921568627
+          ],
+          "_avg_color": [
+            0.8636363636363635,
+            0.11827956989247301,
+            0.36470588235294116
+          ],
+          "primary_color_light": "725e59",
+          "primary_color_dark": "4c3f3b",
+          "secondary_color": "f9f5f4",
+          "is_dark": true
+        },
+        "controversy_reason": "",
+        "cover_url": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910328606.webp",
+        "directors": [
+          {
+            "name": "伊藤尚往"
+          }
+        ],
+        "genres": [
+          "动画",
+          "奇幻",
+          "冒险"
+        ],
+        "has_linewatch": false,
+        "honor_infos": [],
+        "id": "35460695",
+        "is_released": true,
+        "is_show": false,
+        "null_rating_reason": "",
+        "pic": {
+          "large": "https://img9.doubanio.com/view/photo/m_ratio_poster/public/p2910328606.webp",
+          "normal": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2910328606.webp"
+        },
+        "pubdate": [
+          "2024-09-20(日本)"
+        ],
+        "rating": {
+          "count": 3780,
+          "max": 10,
+          "star_count": 3.0,
+          "value": 6.2
+        },
+        "release_date": null,
+        "sharing_url": "https://www.douban.com/doubanapp/dispatch/movie/35460695",
+        "subtype": "movie",
+        "title": "不死者之王 剧场版 圣王国篇",
+        "type": "movie",
+        "uri": "douban://douban.com/movie/35460695",
+        "url": "https://movie.douban.com/subject/35460695/",
+        "vendor_icons": [],
+        "year": "2024",
+        "in_blacklist": false
+      },
+      "tags": [],
+      "vote_count": 0
+    }
+  ],
+  "filters": [
+    {
+      "tags": [
+        {
+          "name": "全部",
+          "key": "全部"
+        },
+        {
+          "name": "2026",
+          "key": "2026"
+        },
+        {
+          "name": "2025",
+          "key": "2025"
+        },
+        {
+          "name": "2024",
+          "key": "2024"
+        },
+        {
+          "name": "2023",
+          "key": "2023"
+        },
+        {
+          "name": "2022",
+          "key": "2022"
+        },
+        {
+          "name": "2020年代",
+          "key": "2020年代"
+        },
+        {
+          "name": "2010年代",
+          "key": "2010年代"
+        },
+        {
+          "name": "2000年代",
+          "key": "2000年代"
+        },
+        {
+          "name": "90年代",
+          "key": "90年代"
+        },
+        {
+          "name": "80年代",
+          "key": "80年代"
+        },
+        {
+          "name": "70年代",
+          "key": "70年代"
+        },
+        {
+          "name": "60年代",
+          "key": "60年代"
+        },
+        {
+          "name": "更早",
+          "key": "更早"
+        }
+      ],
+      "title": "年代",
+      "type": "year"
+    },
+    {
+      "tags": [
+        {
+          "name": "全部",
+          "key": ""
+        },
+        {
+          "name": "电影",
+          "key": "movie"
+        },
+        {
+          "name": "电视",
+          "key": "tv"
+        }
+      ],
+      "title": "形式",
+      "type": "subtype"
+    }
+  ]
+}
